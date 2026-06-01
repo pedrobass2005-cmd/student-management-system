@@ -1,4 +1,4 @@
-Student Management System
+python-student-management-system
 
 Student Management System é um sistema simples de gerenciamento de alunos desenvolvido em Python, com foco em prática de lógica de programação, CRUD e persistência de dados.
 
