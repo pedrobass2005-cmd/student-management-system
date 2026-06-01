@@ -1,5 +1,7 @@
 # student-management-system
-Sistema em Python (CLI) para gerenciamento de alunos, com cadastro, busca, edição e remoção de registros. Utiliza arquivo JSON para persistência de dados e inclui cálculo de médias e controle de aprovação. Ideal para prática de lógica de programação e manipulação de arquivos.
+Student Management System é um sistema simples de gerenciamento de alunos desenvolvido em Python, com foco em prática de lógica de programação, CRUD e persistência de dados.
+
+Este projeto simula um sistema real de cadastro de alunos, utilizando arquivos JSON como armazenamento local.
 Sobre o projeto
 
 Este projeto tem como objetivo simular um sistema básico de controle de alunos, permitindo cadastrar, visualizar e armazenar informações de forma simples e funcional.
