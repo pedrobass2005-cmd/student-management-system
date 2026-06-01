@@ -38,3 +38,19 @@ student-management-system/
 ├── main.py         # Arquivo principal do sistema
 ├── alunos.json     # Banco de dados local (JSON)
 └── README.md       # Documentação
+
+Melhorias futuras
+Interface gráfica (Tkinter / PyQt)
+Sistema de login de usuários
+Validação de entradas
+Filtro e busca de alunos
+Exportação para CSV/Excel
+Migração para banco de dados (SQLite)
+👨‍💻 Autor
+
+Pedro Henrique
+🔗 GitHub: https://github.com/pedrobass2005-cmd
+
+⭐ Nota
+
+Projeto desenvolvido para fins de aprendizado e evolução em programação com Python.
